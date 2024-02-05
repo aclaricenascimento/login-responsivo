@@ -1,0 +1,12 @@
+.left-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50vw;
+    height: 100vh;
+    background-color: #F1DBB3;
+}
+
+.left-img img{
+    width: 60%;
+}
