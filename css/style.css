@@ -127,3 +127,33 @@
     font-weight: 600;
     color: #736BFF;
 }
+
+/* Media Queries */
+@media (max-width:868px) {
+    .container .left-img{
+        display: none;
+    }
+
+    .container .right-login{
+        width: 100%;
+    }
+
+    .container .right-login .form-login{
+        width: 100%;
+        padding: 40px;
+        background: white;
+        margin: 50px;
+    } 
+}
+
+@media (max-width:450px) {
+    .container .right-login .form-login .remember {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width:350px) {
+    .container .right-login .form-login .remember .remember-check{
+        display: none;
+    }
+}
