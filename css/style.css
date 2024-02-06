@@ -152,9 +152,3 @@
         flex-wrap: wrap;
     }
 }
-
-@media (max-width:350px) {
-    .container .right-login .form-login .remember .remember-check{
-        display: none;
-    }
-}
