@@ -12,4 +12,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 💻 Resultado:
 
-Acesse o login neste link [aqui]
+Acesse o login neste link [aqui]( https://claricestfy.github.io/login-responsivo/)
