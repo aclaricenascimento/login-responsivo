@@ -136,13 +136,14 @@
 
     .container .right-login{
         width: 100%;
+        background-color: #ececec;
     }
 
     .container .right-login .form-login{
         width: 100%;
-        padding: 40px;
-        background: white;
-        margin: 50px;
+        padding: 20px;
+        background: #ececec;
+        margin: 15px;
     } 
 }
 
