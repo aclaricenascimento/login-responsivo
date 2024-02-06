@@ -2,7 +2,7 @@
 
 Uma implementação eficiente de uma tela de login responsiva. Desenvolvida para fornecer uma experiência consistente em diversos dispositivos.
 
-##🛠 Tecnologias
+## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
