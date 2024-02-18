@@ -10,6 +10,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 💻 Resultado:
+## 💻 Resultado
 
 Acesse o login neste link [aqui]( https://claricestfy.github.io/login-responsivo/)
