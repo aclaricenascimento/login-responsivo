@@ -55,10 +55,10 @@
 
 .right-login .form-login .input-box input {
     width: 100%;
-    padding: 9px;
+    padding: 9px 20px;
     margin: 0.5rem 0;
     border: none;
-    font-size: 11px;
+    font-size: 12px;
     box-shadow: 1px 1px 6px #0000001c;
     border-radius: 5px;
 }
@@ -73,9 +73,9 @@
 
 .right-login .form-login .input-box span i{
     position: absolute;
-    font-size: 12px;
-    top: 2px;
-    right: 16px;
+    font-size: 14px;
+    top: 3px;
+    right: 20px;
 }
 
 .right-login .form-login .remember{
@@ -100,7 +100,7 @@
 
 .right-login .form-login .btn-login {
     width: 100%;
-    padding: 8px;
+    padding: 9px 20px;
     margin-top: 40px;
     font-size: 0.90rem;
     font-weight: 500;
